@@ -64,9 +64,8 @@ To set up the Task Management System on your server, follow these steps:
 8. **Login**: Use the default administrator credentials to log in and start managing tasks.
 
 ## System Screenshots
+<img width="1438" alt="Screenshot 2024-05-08 at 12 18 07" src="https://github.com/jeanfrancois360/qt_test_project/assets/23524232/4327b2b1-9cdc-4dc5-a4a9-fa97b72afb1b">
 <img width="1438" alt="Screenshot 2024-05-08 at 12 18 40" src="https://github.com/jeanfrancois360/qt_test_project/assets/23524232/b774a8ca-6d29-4620-bc6f-237f542d6a3b">
-<img width="1438" alt="Screenshot 2024-05-08 at 12 18 07" src="https://github.com/jeanfrancois360/qt_test_project/assets/23524232/8eb9d54e-fb33-4c72-a0bb-31b2bf80d4cd">
-<img width="1438" alt="Screenshot 2024-05-08 at 12 17 58" src="https://github.com/jeanfrancois360/qt_test_project/assets/23524232/8df9962c-ad05-4e75-8612-2c502ffb92a7">
 <img width="1438" alt="Screenshot 2024-05-08 at 12 33 41" src="https://github.com/jeanfrancois360/qt_test_project/assets/23524232/3f9a5d36-80d7-4d66-bbe7-764445cf4291">
 <img width="1438" alt="Screenshot 2024-05-08 at 12 19 13" src="https://github.com/jeanfrancois360/qt_test_project/assets/23524232/7e4c0b3c-8854-4bb2-825d-9408fdee870c">
 <img width="1438" alt="Screenshot 2024-05-08 at 12 19 55" src="https://github.com/jeanfrancois360/qt_test_project/assets/23524232/1dd3ef94-04b1-44b1-9b84-36461cf9ff57">
